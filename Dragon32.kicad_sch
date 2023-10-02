@@ -8562,7 +8562,7 @@
     (property "Note" "" (at 42.672 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "DigiKey" "296-1657-5-ND" (at 42.672 45.72 0)
+    (property "DigiKey" "296-8409-1-ND" (at 42.672 45.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "SA2120" "Sheet 1" (at 42.672 45.72 0)
