@@ -15,7 +15,10 @@ schematics are trusted the layout and organisation of the
 line pulse logic is very much experimental.
 
 The clock generator and analogue circuits are completely
-isolated with separate ground planes to further reduce
-interference - it should even be possible to contain the
-vital circuits in an RF shield but this should not be
-needed.
+isolated. The ground plane on the analogue side of the board 
+is as complete and uniform as possible.
+
+## To Do ##
+
+Adopt the Dragon 64 voltage bias circuit for the output
+signal
