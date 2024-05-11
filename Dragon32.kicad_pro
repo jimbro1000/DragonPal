@@ -56,7 +56,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "lib_footprint_mismatch|193926000|75819000|a69fdb71-f53b-4bd2-853a-04273f3c74b5|00000000-0000-0000-0000-000000000000",
+        "lib_footprint_mismatch|88564800|115316000|25fd6a2a-48de-4b84-8efd-5a92b9682df2|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -499,6 +502,14 @@
       {
         "netclass": "Signal",
         "pattern": "VID OUT"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "LUM"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "phi*"
       }
     ]
   },

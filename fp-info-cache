@@ -1,4 +1,4 @@
-21945065078424542
+21946779219313894
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -53536,6 +53536,13 @@ Button_AlpsAlpine_SPUN190900
 6
 6
 Dragon
+CP_Elec_10x10.5
+SMD capacitor, aluminum electrolytic, Vishay 1010, 10.0x10.5mm, http://www.vishay.com/docs/28395/150crz.pdf
+capacitor electrolytic
+0
+2
+2
+Dragon
 DIN-5_DELTRON_671-0501_45deg_Horizontal
 DIN-5 45 degree
 
@@ -53589,8 +53596,8 @@ Trimmer_small
 
 
 0
-0
-0
+2
+2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
